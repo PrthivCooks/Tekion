@@ -1,0 +1,7 @@
+{
+  "name": "Teckion SmartPurchase",
+  "description": "AI-powered automotive sales platform connecting users and sellers with intelligent intent analysis, contract building, and analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
